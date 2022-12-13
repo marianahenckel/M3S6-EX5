@@ -1,0 +1,48 @@
+.div{
+    position: absolute;
+    width: 800px;
+    height: 500px;
+    border: solid 2px;
+    left: 20px;
+    background-image: linear-gradient(red, black);
+    
+}
+
+.logo{
+    position: absolute;
+    height: 560;
+    width: 380px;
+    text-align: center;
+    left: 110px;
+    border-radius: 20px;
+    top: 20px;
+}
+.botoes{
+    top: 300px;
+    position: relative;
+    font-family: 'Inter';
+    padding-bottom: 10px;
+    left: 350px;
+    
+    
+    
+
+}
+#dados{
+    display: inherit;
+    font-size: 32px;
+    width: 452px;
+    height: auto;
+    background-color: white;
+    color: black;
+    font-family: 'Inter';
+    margin-bottom: 10px;
+    
+
+}
+.imgredes{
+    position: absolute;
+    width: 45px;
+    height: 35px;
+    left: 20px;
+}
